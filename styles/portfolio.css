@@ -15,6 +15,20 @@
     border-radius:5px;
     background:orangered;
 }
+.btn-primary-1{
+    color:#FD6E0A;
+    font-weight: 700;
+    font-size:20px;
+    border:2px solid #FD6E0A;;
+    padding: 18px 35px;
+    height:64px;
+    border-radius:5px;
+    background:none;
+    margin-left:30px;
+}
+img{
+    margin-left:180px;
+}
 .header{
     background: #FFF8F3;
     background-position:bottom right,left;
@@ -36,6 +50,8 @@ nav{
 nav ul{
     display:flex;
     align-items: center;
+    font-weight: 400;
+    font-size:20px;
 }
 nav li{
     list-style:none;
@@ -44,7 +60,7 @@ nav li{
 /* banner style */
 .banner{
     display:flex;
-    margin:0 200px;
+    margin:0 0px 0 180px;
     align-items:center;
 }
 .banner-title{
