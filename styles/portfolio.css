@@ -60,7 +60,7 @@ nav li{
 /* banner style */
 .banner{
     display:flex;
-    margin:0 0px 0 180px;
+    margin:0 0px 0 160px;
     align-items:center;
 }
 .banner-title{
